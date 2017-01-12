@@ -1,0 +1,2 @@
+
+Everything seems to be in order... have you used Git previously, or are you a first timer?
