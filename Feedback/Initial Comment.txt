@@ -1,2 +1,5 @@
 
 Everything seems to be in order... have you used Git previously, or are you a first timer?
+
+This is my first time using Git. SourceTree, Git, and GitHub are all new to me.
+I am still trying to learn how to get all of my commits on SourceTree to push into my GitHub repository.
